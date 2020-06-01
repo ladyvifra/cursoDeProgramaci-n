@@ -5,3 +5,8 @@ edad = 29;
 var hermana = "Erika";
 var edadErika = 25
 console.log ("Mi hermana se llama " + hermana  + " y tiene " + edadErika + " años.")
+
+
+function pruabasDeGit(){
+  alert("Hola")
+}
